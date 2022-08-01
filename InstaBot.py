@@ -4,12 +4,6 @@ from instabot import *
 
 bot = Bot()
 
-bot.login(username="colinavabot",
-          password="Amongus4.20")
-
-# bot.login(username="colin.skinner",
-#           password="Avamylove2.24")
-
 users_to_follow = ["colin.skinner", "ava.franchi"]
 
 # bot.follow_users(users_to_follow)
